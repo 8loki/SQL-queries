@@ -1,1 +1,1 @@
-# SQL-querrys
+# SQL-querries
